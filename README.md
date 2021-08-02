@@ -1,2 +1,2 @@
-# deckerizame
+# dockerizame
 angular app deploy
